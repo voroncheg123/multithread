@@ -4,7 +4,7 @@ PHP library for creating multithread workers from array.
 You can push array to the execute method and handle it by handler.php, which you create in hadlers directory
 
 Code example:
-
+```php
     require_once 'MultiThread.php';
 
     //creating test array
@@ -33,3 +33,4 @@ Code example:
         }
         return $randomString;
     }
+```

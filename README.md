@@ -2,7 +2,7 @@
 PHP library for creating multithread workers from array.
 
 Code example:
-
+```php
     require_once 'MultiThread.php';
 
     //creating test array
@@ -31,3 +31,4 @@ Code example:
         }
         return $randomString;
     }
+```

@@ -66,7 +66,7 @@ class MultiThread
     }
 
     /** Creates a string to pass to the thread
-     * @param $params
+     * @param $params array
      * @return void
      */
 
